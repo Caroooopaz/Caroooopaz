@@ -1,12 +1,19 @@
-👋Hi! my name is Caropaz 
+## 🚀 About Me
+Hi! my name is Caropaz 
 
 😄 Pronouns: She/Her
 
 📍 Chile
 
-🌱I'm currently learning Java!  
+## 🛠 Skills
+Javascript, HTML, CSS, Java
+
+## Other Common Github Profile Sections
+
+🧠 I'm currently learning Java!  
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 
 <!--
