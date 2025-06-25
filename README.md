@@ -1,5 +1,5 @@
 ## 🚀 About Me
-Hi! my name is Caropaz 
+👋 Hi! my name is Caropaz 
 
 😄 Pronouns: She/Her
 
