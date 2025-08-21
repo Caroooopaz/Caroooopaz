@@ -6,9 +6,9 @@
 📍 Chile
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Java
+Javascript, HTML, CSS, Java, React, Springboot, SQL
 
-## Other Common Github Profile Sections
+
 
 🧠 I'm currently learning Java!  
 
